@@ -1,6 +1,8 @@
-# actions-immortalwrt-mtk-sdk-phicomm-k2p
+# base on actions-immortalwrt-mtk-sdk-phicomm-k2p
 
 ## 中文说明
+想基于此修改到CR660X的，但还开始！！！
+
 供斐讯 K2P 使用、基于 GitHub Actions CI 的自动化 ImmortalWrt 构建，使用 [padavanonly](https://github.com/padavanonly/immortalwrt)源码 、Linux 5.10 内核，以及开启了 [MTK SDK HWNAT](https://git01.mediatek.com/plugins/gitiles/openwrt/feeds/mtk-openwrt-feeds/) 支持。
 
 ### 如何使用
